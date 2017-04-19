@@ -4,9 +4,9 @@
 <?php get_template_part('partials/header'); ?>
 <div class="container-override">
 
-<img class="img-fluid" src="../images/xmen_wall.jpg">
+<!--<img class="img-fluid" src="../images/xmen_wall.jpg">-->
 <!--https://image.tmdb.org/t/p/original/oQWWth5AOtbWG9o8SCAviGcADed.jpg-->
-<!--<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -31,7 +31,7 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>-->
+</div>
 <!--<div id="my-caro" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#my-caro" data-slide-to="0" class="active"></li>
