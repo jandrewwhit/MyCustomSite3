@@ -1,3 +1,5 @@
+<!--Alt Version 1-->
+
 <?php get_template_part('partials/head'); ?>
 <html>
   <body <?php body_class(); ?>>
